@@ -11,7 +11,7 @@ Le projet est organisé autour de plusieurs scripts Python qui traitent les imag
 
 ## Repository
 ```bash 
-  git clone https://github.com/github_username/repo_name.git
+  git clone https://github.com/Anneaux-hawaiens/Projet-image.git
 ```
 ## Prérequis
 
