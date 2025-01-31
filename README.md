@@ -23,15 +23,14 @@ Avant de pouvoir exécuter ce projet, il est nécessaire d'installer des bilioth
 
 ## Utilisation
 
-Usage
 
 Pour utiliser ce code, suis les étapes suivantes :
 
-*Préparer les fichiers d'images :
+* Préparer les fichiers d'images :
         Mettre tous les fichiers d'images .nii ou .nii.gz et les fichiers.py dans un même dossier.
   
 
-*Exécuter le script compute_metrics.py :
+* Exécuter le script compute_metrics.py :
         Une fois tes fichiers .nii ou .nii.gz prêts, exécutez le script Python compute_metrics.py pour lancer le calcul des métriques.
 
 
